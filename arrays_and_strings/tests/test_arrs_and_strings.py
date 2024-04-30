@@ -1,10 +1,6 @@
 from itertools import islice
+from src.remove_element import removeElement
 import pytest
-import remove_element
-
-
-from remove_element import removeElement
-
 
 def test_remove_element():
     nums = [0, 1, 2, 2, 3, 0, 4, 2]
