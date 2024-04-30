@@ -1,5 +1,5 @@
 from itertools import islice
-from src.remove_element import removeElement
+from ..src.remove_element import removeElement
 import pytest
 
 def test_remove_element():
