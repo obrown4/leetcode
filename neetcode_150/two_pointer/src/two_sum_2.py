@@ -1,6 +1,6 @@
 #STATS
 #   Runtime         Memory
-#   O(n)            O(n)
+#   O(n)            O(1)
 # Two Sum II - Input Array is Sorted #167
 
 def twoSum(number: list[int], target: int) -> list[int]:
