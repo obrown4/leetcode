@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/obrown4/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
+| [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/obrown4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -35,4 +36,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0543-diameter-of-binary-tree) |
+## String
+|  |
+| ------- |
+| [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
