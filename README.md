@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/obrown4/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/obrown4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/obrown4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,8 +48,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/obrown4/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
+| [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 ## Matrix
 |  |
 | ------- |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
+## Bitmask
+|  |
+| ------- |
+| [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 <!---LeetCode Topics End-->
