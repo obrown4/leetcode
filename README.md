@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/obrown4/leetcode/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -116,4 +117,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/obrown4/leetcode/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/obrown4/leetcode/tree/master/0189-rotate-array) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
