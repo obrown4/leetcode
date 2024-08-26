@@ -3,31 +3,17 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        if k % len(nums) == 0:
+        k %= len(nums)
+        if not k:
             return
         
-        k = k % len(nums)
-        # understand
-        # rotate array k times in place
-        # have the option to use O(1) space
-
-        # match
-        # two pointer potential
-        # solve first with aux space
-
-        # aux space Plan
-        # keep seperate array staring at len - k
-        # append len - k then append from 0 - len - k
-
-        copy = nums.copy()
-        start = len(nums) - k
-
+        new_start = len(nums) - k
+        end = nums[:new_start].copy()
         ptr = 0
-        for i in range(start, len(nums)):
-            nums[ptr] = copy[i]
-            ptr += 1
         
-        for i in range(0, start):
-            nums[ptr] = copy[i]
-            ptr += 1
+        for i in range(k):
+            nums[i] = nums[new_start + i]
         
+        for i in range(k, len(nums)):
+            nums[i] = end[ptr]
+            ptr += 1
