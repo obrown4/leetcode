@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/obrown4/leetcode/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
+| [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/obrown4/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 <!---LeetCode Topics End-->
