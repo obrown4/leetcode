@@ -1,4 +1,3 @@
-from collections import deque
 class Solution:
     def canFinish(self, numCourses: int, prerequisites: List[List[int]]) -> bool:
         adj_list = {course : [] for course in range(numCourses)}
@@ -25,4 +24,3 @@ class Solution:
                 return False
         return True
             
-
