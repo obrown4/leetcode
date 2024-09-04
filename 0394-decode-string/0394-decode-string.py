@@ -3,17 +3,16 @@ class Solution:
         stack = []
 
         for char in s:
-            if char != "]":
+            if char != ']':
                 stack.append(char)
             else:
-                val = ""
-
-                while stack[-1] != "[":
-                    val = stack.pop() + val
-                num = ""
+                code = ""
+                while stack and stack[-1] != '[':
+                    code = stack.pop() + code
                 stack.pop()
+                num = ""
                 while stack and stack[-1].isnumeric():
                     num = stack.pop() + num
-                stack.append(val * int(num))
-        
+                
+                stack.append(int(num) * code)
         return "".join(stack)
