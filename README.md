@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/obrown4/leetcode/tree/master/1036-rotting-oranges) |
+| [1319-unique-number-of-occurrences](https://github.com/obrown4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/obrown4/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/obrown4/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Hash Table
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/obrown4/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/obrown4/leetcode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/obrown4/leetcode/tree/master/0133-clone-graph) |
+| [1319-unique-number-of-occurrences](https://github.com/obrown4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/obrown4/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 ## Dynamic Programming
 |  |
