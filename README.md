@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/obrown4/leetcode/tree/master/0133-clone-graph) |
 | [1319-unique-number-of-occurrences](https://github.com/obrown4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/obrown4/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
+| [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
+| [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Tree
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
 | [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
+| [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Backtracking
 |  |
 | ------- |
@@ -141,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
+## Counting
+|  |
+| ------- |
+| [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
