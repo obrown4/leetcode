@@ -3,7 +3,7 @@ class Solution:
         stack = []
 
         for char in s:
-            if char != ']':
+            if char != "]":
                 stack.append(char)
             else:
                 code = ""
@@ -13,6 +13,5 @@ class Solution:
                 num = ""
                 while stack and stack[-1].isnumeric():
                     num = stack.pop() + num
-                
                 stack.append(int(num) * code)
         return "".join(stack)
