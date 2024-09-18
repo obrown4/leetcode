@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/obrown4/leetcode/tree/master/0200-number-of-islands) |
 | [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
+| [0735-asteroid-collision](https://github.com/obrown4/leetcode/tree/master/0735-asteroid-collision) |
 | [1036-rotting-oranges](https://github.com/obrown4/leetcode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/obrown4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/obrown4/leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/obrown4/leetcode/tree/master/0735-asteroid-collision) |
 | [2470-removing-stars-from-a-string](https://github.com/obrown4/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Recursion
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/obrown4/leetcode/tree/master/0735-asteroid-collision) |
 | [2428-equal-row-and-column-pairs](https://github.com/obrown4/leetcode/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/obrown4/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
