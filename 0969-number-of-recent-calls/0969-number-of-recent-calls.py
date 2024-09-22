@@ -6,9 +6,11 @@ class RecentCounter:
     def ping(self, t: int) -> int:
         requests = 1
         check = t - 3000
-        for time in self.queue:
+        for time in reversed(self.queue):
             if check <= time <= t:
                 requests += 1
+            else:
+                break
         
         self.queue.append(t)
         return requests
