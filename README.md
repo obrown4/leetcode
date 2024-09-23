@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/obrown4/leetcode/tree/master/0012-integer-to-roman) |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
 | [0394-decode-string](https://github.com/obrown4/leetcode/tree/master/0394-decode-string) |
+| [0649-dota2-senate](https://github.com/obrown4/leetcode/tree/master/0649-dota2-senate) |
 | [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2470-removing-stars-from-a-string](https://github.com/obrown4/leetcode/tree/master/2470-removing-stars-from-a-string) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/obrown4/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0649-dota2-senate](https://github.com/obrown4/leetcode/tree/master/0649-dota2-senate) |
 | [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 ## Breadth-First Search
 |  |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/obrown4/leetcode/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/obrown4/leetcode/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
