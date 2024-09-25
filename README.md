@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/obrown4/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -65,11 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0545-boundary-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
+| [0904-leaf-similar-trees](https://github.com/obrown4/leetcode/tree/master/0904-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/obrown4/leetcode/tree/master/0904-leaf-similar-trees) |
 ## String
 |  |
 | ------- |
