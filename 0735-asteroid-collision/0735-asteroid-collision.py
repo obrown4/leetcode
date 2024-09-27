@@ -1,5 +1,9 @@
 class Solution:
     def asteroidCollision(self, asteroids: List[int]) -> List[int]:
+        # iterate over asteroids
+        # if curr a is < 0 and top of stack is > 0 comp
+
+
         stack = []
 
         for a in asteroids:
