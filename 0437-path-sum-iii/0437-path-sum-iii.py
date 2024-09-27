@@ -25,7 +25,7 @@ class Solution:
             dfs(node.left, curr_path)
             dfs(node.right, curr_path)
             
-            curr_path -= node.val
+            in_path[curr_path] -= 1
         
         dfs(root, 0)
         return self.count
