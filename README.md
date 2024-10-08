@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/obrown4/leetcode/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0543-diameter-of-binary-tree) |
 | [0545-boundary-of-binary-tree](https://github.com/obrown4/leetcode/tree/master/0545-boundary-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/obrown4/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
 | [0904-leaf-similar-trees](https://github.com/obrown4/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/obrown4/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/obrown4/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/obrown4/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/obrown4/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/obrown4/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/obrown4/leetcode/tree/master/1036-rotting-oranges) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/obrown4/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/obrown4/leetcode/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/obrown4/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/obrown4/leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/obrown4/leetcode/tree/master/0547-number-of-provinces) |
 ## Topological Sort
 |  |
 | ------- |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/obrown4/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/obrown4/leetcode/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
 ## Math
 |  |
