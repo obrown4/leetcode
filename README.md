@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/obrown4/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/obrown4/leetcode/tree/master/0189-rotate-array) |
+| [1894-merge-strings-alternately](https://github.com/obrown4/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/obrown4/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/obrown4/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/obrown4/leetcode/tree/master/0649-dota2-senate) |
 | [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
+| [1894-merge-strings-alternately](https://github.com/obrown4/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/obrown4/leetcode/tree/master/2470-removing-stars-from-a-string) |
 ## Backtracking
 |  |
