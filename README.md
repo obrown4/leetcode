@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/obrown4/leetcode/tree/master/0036-valid-sudoku) |
 | [0051-n-queens](https://github.com/obrown4/leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/obrown4/leetcode/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/obrown4/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/obrown4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/obrown4/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/obrown4/leetcode/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/obrown4/leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/obrown4/leetcode/tree/master/0189-rotate-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/obrown4/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/obrown4/leetcode/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/obrown4/leetcode/tree/master/0088-merge-sorted-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Tree
 |  |
