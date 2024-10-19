@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/obrown4/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
 | [0735-asteroid-collision](https://github.com/obrown4/leetcode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/obrown4/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1036-rotting-oranges](https://github.com/obrown4/leetcode/tree/master/1036-rotting-oranges) |
 | [1319-unique-number-of-occurrences](https://github.com/obrown4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1331-path-with-maximum-gold](https://github.com/obrown4/leetcode/tree/master/1331-path-with-maximum-gold) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/obrown4/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/obrown4/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
+| [0747-min-cost-climbing-stairs](https://github.com/obrown4/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/obrown4/leetcode/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Two Pointers
 |  |
