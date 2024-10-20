@@ -26,7 +26,6 @@ class Solution(object):
                     continue
                 
                 if (neighbor, city) not in edges:
-                    print(neighbor, city)
                     self.changes += 1
                 visited.add(neighbor)
                 dfs(neighbor)
