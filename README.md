@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-path-with-maximum-gold](https://github.com/obrown4/leetcode/tree/master/1331-path-with-maximum-gold) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/obrown4/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [2428-equal-row-and-column-pairs](https://github.com/obrown4/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/obrown4/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1392-find-the-difference-of-two-arrays](https://github.com/obrown4/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/obrown4/leetcode/tree/master/2428-equal-row-and-column-pairs) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/obrown4/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/obrown4/leetcode/tree/master/1894-merge-strings-alternately) |
 | [2470-removing-stars-from-a-string](https://github.com/obrown4/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/obrown4/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## Backtracking
 |  |
 | ------- |
@@ -243,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/obrown4/leetcode/tree/master/0560-subarray-sum-equals-k) |
+## Trie
+|  |
+| ------- |
+| [3329-find-the-length-of-the-longest-common-prefix](https://github.com/obrown4/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
