@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/obrown4/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/obrown4/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/obrown4/leetcode/tree/master/0200-number-of-islands) |
+| [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/obrown4/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/obrown4/leetcode/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Tree
 |  |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1304-longest-happy-string](https://github.com/obrown4/leetcode/tree/master/1304-longest-happy-string) |
 ## Counting
 |  |
@@ -250,4 +253,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/obrown4/leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
