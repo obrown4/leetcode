@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/obrown4/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/obrown4/leetcode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/obrown4/leetcode/tree/master/0217-contains-duplicate) |
 | [0473-matchsticks-to-square](https://github.com/obrown4/leetcode/tree/master/0473-matchsticks-to-square) |
 | [0560-subarray-sum-equals-k](https://github.com/obrown4/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/obrown4/leetcode/tree/master/0695-max-area-of-island) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/obrown4/leetcode/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/obrown4/leetcode/tree/master/0036-valid-sudoku) |
 | [0133-clone-graph](https://github.com/obrown4/leetcode/tree/master/0133-clone-graph) |
+| [0217-contains-duplicate](https://github.com/obrown4/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/obrown4/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1319-unique-number-of-occurrences](https://github.com/obrown4/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/obrown4/leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/obrown4/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/obrown4/leetcode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/obrown4/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/obrown4/leetcode/tree/master/0217-contains-duplicate) |
 | [1777-determine-if-two-strings-are-close](https://github.com/obrown4/leetcode/tree/master/1777-determine-if-two-strings-are-close) |
 ## Tree
 |  |
